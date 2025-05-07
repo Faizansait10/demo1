@@ -1,0 +1,15 @@
+h1{
+    color: blue;
+}
+th {
+    background-color: #ddd;
+    color: blue;
+    padding: 8px;
+    text-align: left;
+    border-bottom: 2px solid #333;
+  }
+
+  td {
+    padding: 8px;
+    border-bottom: 1px solid #ccc;
+  }
